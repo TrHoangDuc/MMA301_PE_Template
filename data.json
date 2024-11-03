@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "playerName": "DUŠAN TADIĆ",
+    "minutesPlayed": 646,
+    "isCaptain": false,
+    "image": "https://img.uefa.com/imgml/TP/players/3/2024/324x324/1902464.jpg",
+    "team": "Serbia",
+    "PassingAccuracy": 0.83,
+    "position": "Midfielder"
+  },
+  {
+    "id": "2",
+    "playerName": "GIANLUIGI DONNARUMMA",
+    "minutesPlayed": 720,
+    "isCaptain": true,
+    "image": "https://img.uefa.com/imgml/TP/players/3/2024/324x324/250078922.jpg",
+    "team": "Italia",
+    "PassingAccuracy": 0.94,
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "3",
+    "playerName": "ŁUKASZ SKORUPSKI",
+    "minutesPlayed": 67,
+    "isCaptain": false,
+    "image": "https://img.uefa.com/imgml/TP/players/3/2024/324x324/250040573.jpg",
+    "team": "Poland",
+    "PassingAccuracy": 0.34,
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "4",
+    "playerName": "AYMERIC LAPORTE",
+    "minutesPlayed": 450,
+    "isCaptain": false,
+    "image": "https://img.uefa.com/imgml/TP/players/3/2024/324x324/250027046.jpg",
+    "team": "Spain",
+    "PassingAccuracy": 0.95,
+    "position": "Defender"
+  },
+  {
+    "id": "5",
+    "playerName": "JAN VERTONGHEN",
+    "minutesPlayed": 540,
+    "isCaptain": false,
+    "image": "https://img.uefa.com/imgml/TP/players/3/2024/324x324/103704.jpg",
+    "team": "Belgium",
+    "PassingAccuracy": 0.9,
+    "position": "Defender"
+  },
+  {
+    "id": "6",
+    "playerName": "ONDREJ DUDA",
+    "minutesPlayed": 658,
+    "isCaptain": true,
+    "image": "https://img.uefa.com/imgml/TP/players/3/2024/324x324/250055981.jpg",
+    "team": "Slovakia",
+    "PassingAccuracy": 0.82,
+    "position": "Midfielder"
+  },
+  {
+    "id": "7",
+    "playerName": "LUKA MODRIĆ",
+    "minutesPlayed": 680,
+    "isCaptain": true,
+    "image": "https://img.uefa.com/imgml/TP/players/3/2024/324x324/74699.jpg",
+    "team": "Croatia",
+    "PassingAccuracy": 0.88,
+    "position": "Midfielder"
+  },
+  {
+    "id": "8",
+    "playerName": "BUKAYO SAKA",
+    "minutesPlayed": 493,
+    "isCaptain": false,
+    "image": "https://img.uefa.com/imgml/TP/players/3/2024/324x324/250106939.jpg",
+    "team": "England",
+    "PassingAccuracy": 0.84,
+    "position": "Striker"
+  },
+  {
+    "id": "9",
+    "playerName": "MARCUS THURAM",
+    "minutesPlayed": 161,
+    "isCaptain": false,
+    "image": "https://img.uefa.com/imgml/TP/players/3/2024/324x324/250068805.jpg",
+    "team": "France",
+    "PassingAccuracy": 0.67,
+    "position": "Striker"
+  },
+  {
+    "id": "10",
+    "playerName": "KYLIAN MBAPPÉ",
+    "minutesPlayed": 656,
+    "isCaptain": false,
+    "image": "https://img.uefa.com/imgml/TP/players/3/2024/324x324/250076574.jpg",
+    "team": "France",
+    "PassingAccuracy": 0.84,
+    "position": "Striker"
+  },
+  {
+    "id": "11",
+    "playerName": "VIRGIL VAN DIJK",
+    "minutesPlayed": 236,
+    "isCaptain": true,
+    "image": "https://img.uefa.com/imgml/TP/players/3/2024/324x324/50327420.jpg",
+    "team": "Netherlands",
+    "PassingAccuracy": 0.89,
+    "position": "Defender"
+  },
+  {
+    "id": "12",
+    "playerName": "VELJKO BIRMANČEVIĆ",
+    "minutesPlayed": 458,
+    "isCaptain": true,
+    "image": "https://img.uefa.com/imgml/TP/players/3/2024/324x324/250105717.jpg",
+    "team": "Serbia",
+    "PassingAccuracy": 0.89,
+    "position": "Midfielder"
+  },
+  {
+    "id": "13",
+    "playerName": "CRISTIANO RONALDO",
+    "minutesPlayed": 725,
+    "isCaptain": true,
+    "image": "https://img.uefa.com/imgml/TP/players/3/2024/324x324/63706.jpg",
+    "team": "Portugal",
+    "PassingAccuracy": 0.78,
+    "position": "Striker"
+  }
+]
